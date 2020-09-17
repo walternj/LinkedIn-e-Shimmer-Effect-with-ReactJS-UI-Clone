@@ -9,4 +9,4 @@ Ps: Reload the page to see the Shimmer Effect in action while the loading
 </br>
 
 ![Linkedin-clone](https://github.com/walternj/LinkedIn-e-Shimmer-Effect-with-ReactJS-UI-Clone/blob/master/Capture.PNG)
-![Linkedin-Shimmer](https://github.com/walternj/LinkedIn-e-Shimmer-Effect-with-ReactJS-UI-Clone/blob/master/Capture2.PNG)
+![Linkedin-Shimmer](https://github.com/walternj/LinkedIn-e-Shimmer-Effect-with-ReactJS-UI-Clone/blob/master/Capture2.png)
